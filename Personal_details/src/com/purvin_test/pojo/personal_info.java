@@ -11,6 +11,7 @@ public class personal_info {
 		String h1 = pi.f_Name="Pur";
 		String h2 = pi.l_Name="Pat";
 		System.out.println(h1 + h2);
+		System.out.println(" NEW CHANGE ");
 	}
 
 }
